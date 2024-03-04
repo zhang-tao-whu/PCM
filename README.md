@@ -25,7 +25,6 @@ Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 ### 3-D Point Cloud Segmentation
 <img src="https://github.com/zhang-tao-whu/paper_images/blob/master/pcm/pcm-exp-2.png" width="500"/>
 
-
 ```BibTeX
 @article{zhang2024pcm,
       title={Point Could Mamba: Point Cloud Learning via State Space Model}, 
@@ -35,3 +34,7 @@ Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 }
 
 ```
+
+## License
+
+MiT
