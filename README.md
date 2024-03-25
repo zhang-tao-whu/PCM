@@ -1,14 +1,18 @@
 
 <div align="center">
+
 # [Point Could Mamba: Point Cloud Learning via State Space Mode](https://arxiv.org/abs/2403.00762)
 Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
+
 </div>
 
 ## News
 - All codes and weights are available at [SkyworkAI/PointCloudMamba](https://github.com/SkyworkAI/PointCloudMamba).
 
 <div align="center">
+
 <img src="https://github.com/zhang-tao-whu/paper_images/blob/master/pcm/pcm-idea.png" width="800"/>
+
 </div>
 
 ## Features
