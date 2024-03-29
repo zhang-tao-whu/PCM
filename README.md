@@ -33,7 +33,7 @@ Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 
 ```BibTeX
 @article{zhang2024pcm,
-      title={Point Could Mamba: Point Cloud Learning via State Space Model}, 
+      title={Point Cloud Mamba: Point Cloud Learning via State Space Model}, 
       author={Tao Zhang and Xiangtai Li and Haobo Yuan and Shunping Ji and Shuicheng Yan},
       journal={arXiv preprint arXiv:2403.00762},
       year={2024}
