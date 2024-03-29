@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# [Point Could Mamba: Point Cloud Learning via State Space Mode](https://arxiv.org/abs/2403.00762)
+# [Point Cloud Mamba: Point Cloud Learning via State Space Mode](https://arxiv.org/abs/2403.00762)
 Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 
 </div>
@@ -32,11 +32,11 @@ Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 <img src="https://github.com/zhang-tao-whu/paper_images/blob/master/pcm/pcm-exp-2.png" width="500"/>
 
 ```BibTeX
-@article{zhang2024pcm,
-      title={Point Cloud Mamba: Point Cloud Learning via State Space Model}, 
-      author={Tao Zhang and Xiangtai Li and Haobo Yuan and Shunping Ji and Shuicheng Yan},
-      journal={arXiv preprint arXiv:2403.00762},
-      year={2024}
+@article{zhang2024point,
+  title={Point Cloud Mamba: Point Cloud Learning via State Space Model},
+  author={Zhang, Tao and Li, Xiangtai and Yuan, Haobo and Ji, Shunping and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2403.00762},
+  year={2024}
 }
 
 ```
