@@ -2,11 +2,12 @@
 <div align="center">
 
 # [Point Cloud Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762)
-Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
+Tao Zhang, Haobo Yuan, Lu Qi, Jiangning Zhang, Qianyu Zhou, Shunping Ji, Shuicheng Yan, Xiangtai Li
 
 </div>
 
 ## News
+- PCM is finally accepted by AAAI-2025.
 - All codes and weights are available at [SkyworkAI/PointCloudMamba](https://github.com/SkyworkAI/PointCloudMamba).
 
 <div align="center">
@@ -34,13 +35,13 @@ Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
 ```BibTeX
 @article{zhang2024point,
   title={Point Cloud Mamba: Point Cloud Learning via State Space Model},
-  author={Zhang, Tao and Li, Xiangtai and Yuan, Haobo and Ji, Shunping and Yan, Shuicheng},
-  journal={arXiv preprint arXiv:2403.00762},
-  year={2024}
+  author={Zhang, Tao and Yuan, Haobo and Qi, Lu and Zhanng, Jiangning and Zhou, Qianyu and Ji, Shunping and Yan, Shuicheng and Li, Xiangtai},
+  journal={AAAI},
+  year={2025}
 }
 
 ```
 
 ## License
 
-MiT
+MIT License
